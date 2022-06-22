@@ -1,0 +1,9 @@
+html, body, button {
+  margin: 10;
+  padding: 10;
+position: absolute;top:0%; left: 0%;
+font-size: x-large;
+color: red;
+canvas {
+  display: max-block-size;;
+}
